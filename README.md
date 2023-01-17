@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Page](https://github.com/Thesaleem/Rest-Countries-API)
-- Live Site URL: [Rest Countries](https://restcountries-s.netlify.app/)
+- Solution URL: [GitHub Page](https://github.com/Thesaleem/quizzical-app)
+- Live Site URL: [Quizzical App](https://quizzicalapp-s.netlify.app/)
 
 ## My process
 
