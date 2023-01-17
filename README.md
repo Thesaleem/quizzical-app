@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Page](https://github.com/Thesaleem/quizzical-app)
-- Live Site URL: [Quizzical App]()
+- Live Site URL: [Quizzical App](https://quizzicalapp-s.netlify.app/)
 
 ## My process
 
